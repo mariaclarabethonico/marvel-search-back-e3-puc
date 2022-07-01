@@ -4,7 +4,19 @@ Projeto desenvolvido para o Eixo 3, do curso de Sistemas de Informação - PUC M
 
 Link API da Marvel: https://developer.marvel.com/
 
-Link Aplicação: 
+- Caroline Clarissa Leite De Aguiar
+
+- Krysthyan Jhonny Ramos Da Silva
+
+- Maria Clara Bethonico Terra
+
+- Pedro Henrique de Souza Monti
+
+- Simone da Cruz Macedo
+
+- Valéria Aparecida Santos
+
+Professor(a): Simone de Assis Alves da Silva
 
 ---
 
@@ -25,10 +37,3 @@ Link Aplicação:
 
 3º passo: Clonar projeto Front-End e seguir instruções.
 
----
-
-## LINKS
-
- - Aplicação: https://marvel-bf.herokuapp.com/
- - API da Marvel: https://developer.marvel.com/
- - API exclusiva da Aplicação: https://marvel-back-bf.herokuapp.com/
